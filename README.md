@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anthony Apodaca</h1>
 <h3 align="center">A passionate Software Engineer from California.</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js, Rust, Go**
+- 🌱 I’m currently learning **Go, Rust**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.js, Express.js**
+- 💬 Ask me about **React.js, JavaScript, HTML, CSS, Node.js, Express.js**
 
 - 📫 How to reach me **adapodaca92@gmail.com**
 
