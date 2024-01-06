@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go, Rust**
 
-- 💬 Ask me about **React.js, JavaScript, HTML, CSS, Node.js, Express.js**
+- 💬 Ask me about **React.js, TypeScript, JavaScript, HTML, CSS, Node.js, Express.js**
 
 - 📫 How to reach me **adapodaca92@gmail.com**
 
