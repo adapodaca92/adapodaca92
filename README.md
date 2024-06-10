@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Apodaca</h1>
 <h3 align="center">A passionate Software Engineer from California.</h3>
 
-- 🌱 I’m currently learning **Go, Rust**
+- 🌱 I’m currently learning ** Rust, Zig **
 
 - 💬 Ask me about **React.js, TypeScript, JavaScript, HTML, CSS, Node.js, Express.js**
 
