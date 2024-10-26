@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adapodaca92@gmail.com**
 
-- ⚡ Fun fact **I love learning foreign languages.**
+- ⚡ Fun fact: **I love learning foreign languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
